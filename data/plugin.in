@@ -1,0 +1,10 @@
+[Plugin]
+Authors=PaladinDev
+Copyright=Copyright © 2023 PaladinDev
+Description=Ultimate plugin for Vala
+Loader=C
+Module=@MODULE@
+Name=Valkyrie
+X-Builder-ABI=@BUILDER_ABI@
+X-Category=language
+X-Completion-Provider-Languages=vala
